@@ -12,6 +12,9 @@ Features
 - List Friends**: View a list of friends.
 - Pending Friend Requests**: View pending friend requests.
 
+
+Postman Collection is also in the project directory as JSON named AkashDalal-Social Network.postman_collection.json
+
 steps to Run - 
 1. Clone the Repository
 2. Create a Virtual Environment -
@@ -31,5 +34,7 @@ docker-compose build
 docker-compose up -d
 9. To stop docker compose 
 docker-compose down -d
+
+
 
 

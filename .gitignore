@@ -1,0 +1,5 @@
+myenv
+api/__pycache__
+api/migrations/__pycache__
+social_network/__pycache__
+db.sqlite3
